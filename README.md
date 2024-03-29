@@ -13,6 +13,6 @@ I am a recent Software Graduate with a double major in Software Development & Co
 ## 😄 Pronouns:
 - He/Him
 ## ⚡ Fun fact:
-I like to code commercial software that can bring revenue, reduce cost, or optimize current resource utilization.
+I like to code commercial software that can bring revenue, reduce cost, or optimize current resource utilization. I was also a part of developer team @ Monash Paramedicine, where we built a e-learning system for commencing monash students, in the field of paramedicine. 
 
 
